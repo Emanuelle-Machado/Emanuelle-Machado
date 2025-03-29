@@ -1,8 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
 
-<img loading="lazy" src="octocat-perfil.png" width="100" height="100" style="float: left;" />
+<img loading="lazy" src="octocat-perfil.png" width="100" height="100" />
 
 ## My name is Emanuelle Machado and my nickname is "Manu"!
+
+🌱 IT Student | Trainee Developer
+💡 Passionate about software development, data quality, and cybersecurity
+🎓 My research: **Data Quality and Linked Data** applied to open government data
 
 ## Tools and technologies
 
