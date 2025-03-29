@@ -5,8 +5,11 @@
 ## My name is Emanuelle Machado and my nickname is "Manu"!
 
 🌱 IT Student | Trainee Developer
+
 💡 Passionate about software development, data quality, and cybersecurity
+
 🎓 My research: **Data Quality and Linked Data** applied to open government data
+
 
 ## Tools and technologies
 
