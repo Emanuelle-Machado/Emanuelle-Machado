@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-<img loading="lazy" src="octocat-perfil.png"  width="40" height="40" />
+<img loading="lazy" src="octocat-perfil.png"  width="90" height="90" />
 ## My name is Emanuelle Machado and my nickname is "Manu"!
 
 ## Tools and technologies
