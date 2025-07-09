@@ -1,15 +1,19 @@
 # 👋 Hello! Welcome to my Github profile.
 
-
-
 ## My name is Emanuelle Machado and my nickname is "Manu"!
 
-🌱 IT Student | Trainee Developer
+Passionate about software development, data quality, and cybersecurity
 
-💡 Passionate about software development, data quality, and cybersecurity
 
-🎓 My research: **Data Quality and Linked Data** applied to open government data
+## 🎓 Education
 
+**Technology’s Degree in Technology for internet systems**  
+[Federal University of Technology – Paraná (UTFPR)] – [Toledo - Brasil]  
+📅 [2022] – [2025]
+
+Relevant coursework: Object-Oriented Programming, Data Structures, Software Engineering, Mobile Development, Database Systems
+
+My research: **Data Quality and Linked Data** applied to open government data
 
 
 ## Tools and technologies
@@ -21,8 +25,23 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelle-Machado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## 📢 Open to Opportunities
+
+I'm currently open to **remote** or **hybrid** roles in:
+
+- 🌐 Web Development (Java, React)
+- 📱 Mobile Development (Flutter / Android)
+- 💼 Full Stack positions
+
+
 ## Contacts
 <div>
   <a href = "mailto:manumachado03@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuelle-machado-em" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese: Native  
+- 🇺🇸 English: Intermediate (reading/writing technical content)  
+- 🇪🇸 Spanish: Basic
