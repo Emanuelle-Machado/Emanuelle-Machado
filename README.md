@@ -14,6 +14,7 @@ Passionate about software development, data quality, and cybersecurity
 Relevant coursework: Object-Oriented Programming, Data Structures, Software Engineering, Mobile Development, Database Systems
 
 My research: **Data Quality and Linked Data** applied to open government data
+http://repositorio.utfpr.edu.br/jspui/handle/1/36793
 
 
 ## Tools and technologies
